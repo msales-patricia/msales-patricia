@@ -1,7 +1,6 @@
 ## Olá! Eu sou a Patrícia Sales.
 
-Sou Analista de Testes / Quality Assurance, QA
-Automatizo testes web e de API (Java, JavaScript, Selenium, Cypress, Robot e RestAssured)
+Sou Analista de Testes / Quality Assurance (QA), automatizo testes web e de API (Java, JavaScript, Selenium, Cypress, Robot e RestAssured).
  
  <a href="https://github.com/msales-patricia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=msales-patricia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
