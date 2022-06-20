@@ -1,6 +1,4 @@
-## Olá! Eu sou a Patrícia Sales
-
-Sou Analista de Testes / Quality Assurance (QA), automatizo testes web e de API (Java, JavaScript, Selenium, Cypress, Robot e RestAssured).
+## Olá! Eu sou a Patrícia Sales, analista de Testes / Quality Assurance (QA), automatizo testes web e de API (Java, JavaScript, Selenium, Cypress, Robot e RestAssured).
  
  <a href="https://github.com/msales-patricia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=msales-patricia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -23,4 +21,6 @@ Sou Analista de Testes / Quality Assurance (QA), automatizo testes web e de API 
   <a href = "mailto:msales.patricia@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
  <a href="https://www.linkedin.com/in/patricia-santos-6306b9232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
+   ![Snake animation](https://github.com/msales.patricia/msales.patricia/blob/output/github-contribution-grid-snake.svg)
+   
   </div>
