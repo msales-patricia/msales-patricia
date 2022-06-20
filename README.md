@@ -1,4 +1,4 @@
-## Olá! Eu sou a Patrícia Sales.
+## Olá! Eu sou a Patrícia Sales
 
 Sou Analista de Testes / Quality Assurance (QA), automatizo testes web e de API (Java, JavaScript, Selenium, Cypress, Robot e RestAssured).
  
